@@ -1,0 +1,1 @@
+import{_ as e,o,c as t}from"./index-7521a977.js";const n={},s={id:"footer",class:"footer font-Onest text-xs text-center p-"};function c(r,a){return o(),t("div",s," © Lucas De Roover - student Media & Information Design ")}const f=e(n,[["render",c]]);export{f as F};

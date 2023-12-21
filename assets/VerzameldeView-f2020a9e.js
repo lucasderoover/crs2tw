@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,F as c,b as e}from"./index-7521a977.js";const t={},_=e("div",{class:"background"},[e("h1",null,"FOODFLIX")],-1),o=e("div",{class:"blank"},null,-1);function l(r,d){return n(),a(c,null,[_,o],64)}const u=s(t,[["render",l]]);export{u as default};
